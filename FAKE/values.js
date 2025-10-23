@@ -1,9 +1,9 @@
 // values.js
 
 // Основные данные 
-var fio               = "Аксенов Рустам Леонiдович";
+var fio               = "Уваров Ярослав Евгеньевич";
 var fio_en            = "Aksenov Rustam";
-var birth             = "14.10.2002"; //дата рождения
+var birth             = "14.10.2007"; //дата рождения
 var date_give         = "24.11.2021"; //Дата видачи
 var date_out          = "24.11.2031"; // действителен до
 var organ             = "6333"; //орган что выдал документ
@@ -60,13 +60,14 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "199.png"; //эДок, паспорт,
-var photo_rights   = "188.png"; //права
-var photo_students = "image_2025-10-22_14-44-50.png"; //диплом, студ
-var photo_zagran   = "177.png"; //загран
+var photo_passport = "image_2025-10-23_20-45-08.png"; //эДок, паспорт,
+var photo_rights   = "image_2025-10-23_20-45-08.png"; //права
+var photo_students = "image_2025-10-23_20-45-08.png"; //диплом, студ
+var photo_zagran   = "image_2025-10-23_20-45-08.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
